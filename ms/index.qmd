@@ -1,0 +1,18 @@
+---
+title: Are climate drivers responsible for increasing epidemic sizes?  
+format: 
+  pdf:
+    toc: true
+    number-sections: true
+    colorlinks: true
+authors:
+bibliography: theRmal-landscape.bib
+---
+
+## Background & Motivation 
+
+## Analysis 
+
+### 
+
+
